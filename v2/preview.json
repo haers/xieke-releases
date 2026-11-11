@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0-alpha.39",
+  "notes": "# 2.0.0-alpha.39\n\n- 接通GitHub预览版更新索引，alpha版本自动检查预览通道。\n- 安装包和更新归档采用独立更新签名，更新说明随版本提供。\n\n适用于macOS14及以上的Apple Silicon设备。当前为ad-hoc签名预览版，首次安装可能需要在macOS“隐私与安全性”中确认打开。\n",
+  "pub_date": "2026-11-11T03:26:33.000Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenZLdzFUZHJlMEcwY0luaFdkMW8zVDFsSExuaW9qQThEeHVtYTJ4cFFrbGRqTTJrSnhXd3FFa2dYdk9LeWdUSGhmdlNqdklzcUp0SW1GZHJuWUJhYjluY3A1ckNJZVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY4MDc5CWZpbGU65q2H5Yi7IHYyLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjAuMC1hbHBoYS4zOQpqK1FzV2pCcGpNRHFLWFlaYjJYR0tZMnpzS3kwS2cyRVI2ZEJ0aENvdnl0T09sbFlQOE95NEsyUjAra1dObjFjYWNiaHRvYWdRbWwyR1RRR3FUOWhBdz09Cg==",
+      "url": "https://github.com/haers/xieke-releases/releases/download/xieke-v2-v2.0.0-alpha.39/Xieke-v2_2.0.0-alpha.39_aarch64.app.tar.gz"
+    }
+  }
+}
