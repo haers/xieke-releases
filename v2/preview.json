@@ -1,11 +1,11 @@
 {
-  "version": "2.0.0-alpha.40",
-  "notes": "# 2.0.0-alpha.40\n\n- 修复GitHub草稿续传查找，完整识别未绑定标签的草稿，避免重复创建。\n- 继续使用独立的v2预览更新通道和版本绑定签名。\n\n适用于macOS14及以上的Apple Silicon设备。当前为ad-hoc签名预览版，首次安装可能需要在macOS“隐私与安全性”中确认打开。\n",
-  "pub_date": "2026-11-11T03:52:23.000Z",
+  "version": "2.0.0-alpha.42",
+  "notes": "# 2.0.0-alpha.42\n\n- 支持在“已是最新版本”时重新检查，更新弹窗保持可用的手动检查入口。\n- 修复GitHub Actions未配置Apple证书时，空Secret被误判为签名配置的问题。\n\n适用于macOS14及以上的Apple Silicon设备。当前为ad-hoc签名预览版，首次安装可能需要在macOS“隐私与安全性”中确认打开。\n",
+  "pub_date": "2026-11-11T06:40:55.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenZLdzFUZHJlMEpuazN1WlFneFR4NG1rczRUNzVSQmVWMmRPWkI2bVVOczV4cW8vM3FBMVl4MDV5YitCTCtDMkFhZjBaRDREMERZZk1JN3NSKzMrMTBjMndMS2tlaWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY5NDM4CWZpbGU65q2H5Yi7IHYyLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjAuMC1hbHBoYS40MApKbzFUaS9uZ1VjUDVlTExMQ1NRRVNTS3ZiUGtTMkNHN2g5U2dVV1puejU4NmZWSkFaaDJBaTFxQ2gxOXg5dVRPeEs4RUY0RDdTZ0hqWTNLYW9HbHNBZz09Cg==",
-      "url": "https://github.com/haers/xieke-releases/releases/download/xieke-v2-v2.0.0-alpha.40/Xieke-v2_2.0.0-alpha.40_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenZLdzFUZHJlMEVNVUN3SnN0bEZFRjJ5bzF6VE1WSlEyOGlvVlMvYkNXZVpkRTA4Z1ppeEl0WHFmaEZ1TWd0NFdMc21idENqbjZPSGd2T2tDQ2V1aVJDK1cxc0xrcmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgwMzI1CWZpbGU65q2H5Yi7IHYyLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjAuMC1hbHBoYS40MgpoUCtmK0JvRmVJTGE3emF4c3A0RVVzTENxd2VxOTlueWJmbk9wR2FyaVFxTVFYYnVEY3Fab0ZQamloejlmcDd6TjFJeHZEblN5YmNIYis1OEVNWFJEQT09Cg==",
+      "url": "https://github.com/haers/xieke-releases/releases/download/xieke-v2-v2.0.0-alpha.42/Xieke-v2_2.0.0-alpha.42_aarch64.app.tar.gz"
     }
   }
 }
